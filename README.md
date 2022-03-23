@@ -1,6 +1,6 @@
 # Iris UI
 
-This is an interface for interacting a with an [Iris](https://iridium-labs.github.io) node. The purpose of this user interface is to demonstrate integration with the Iris blockchain.
+This is an interface for interacting a with an [Iris](https://iridium-labs.github.io) node.
 
 ## Setup
 
@@ -8,6 +8,7 @@ This is an interface for interacting a with an [Iris](https://iridium-labs.githu
 
 - Setup and run an [Iris node](https://github.com/iridium-labs/substrate/tree/iris)
 - Setup and run an [IPFS node](https://docs.ipfs.io/install/)
+  - this is only required if you want to add data to the network (i.e. if you are a data owner)
   - It is assumed that the IPFS node exposes it's api on the default port: `4001`.
 
 ### Installation
